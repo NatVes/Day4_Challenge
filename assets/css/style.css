@@ -22,13 +22,13 @@ header h1 {
     font-size: 48px;
 }
 
-/* replaced <span> tag with a semantic one */
+/* replaced <span> tag with a semantic <mark> tag */
 h1 mark {
     background-color: transparent;
     color: #d9dcd6;
 }
 
-/* replaced <div> tag with a semantic one */
+/* replaced <div> tag with a semantic <nav> tag */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,13 +41,13 @@ nav ul {
     list-style-type: none;
 }
 
-/* shortened the path of accessing selectors */
+/* shortened the access path to the selector by addressing the element class */
 .tab {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* specified the link inside the class=tab */
+/* specified the link inside the element with class=tab */
 .tab a {
     color: #ffffff;
     text-decoration: none;
@@ -105,7 +105,7 @@ nav ul {
     font-size: 36px;
 }
 
-/* specified the paragraphs inside the class=content */
+/* specified the paragraphs inside the element with class=content */
 .content p {
     font-size: 16px;
 }
