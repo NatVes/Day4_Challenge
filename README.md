@@ -50,9 +50,7 @@ To experience the accessibility improvements in this project, follow these steps
 
 1. Open the `index.html` file in your preferred web browser by entering `start index.html`
 
-Alternatively, follow the [link.](https://natves.github.io/day4_challenge/)
-
-## Credits
+Alternatively, follow the [link.](https://natves.github.io/Day4_Challenge/)
 
 The improvements made to this project were inspired by and adhere to the accessibility guidelines provided by [W3Schools](https://www.w3schools.com/html/html5_semantic_elements.asp). The use of semantic HTML elements and the principles of web accessibility outlined in this resource significantly contributed to the enhancement of the codebase.
 
