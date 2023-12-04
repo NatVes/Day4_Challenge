@@ -52,6 +52,8 @@ To experience the accessibility improvements in this project, follow these steps
 
 Alternatively, follow the [link.](https://natves.github.io/Day4_Challenge/)
 
+## Credits
+
 The improvements made to this project were inspired by and adhere to the accessibility guidelines provided by [W3Schools](https://www.w3schools.com/html/html5_semantic_elements.asp). The use of semantic HTML elements and the principles of web accessibility outlined in this resource significantly contributed to the enhancement of the codebase.
 
 ## License
