@@ -50,7 +50,7 @@ To experience the accessibility improvements in this project, follow these steps
 
 1. Open the `index.html` file in your preferred web browser by entering `start index.html`
 
-Alternatively, follow the [link.](https://natves.github.io/day4_challenge/)
+Alternatively, follow the [link.](https://natves.github.io/Day4_Challenge/)
 
 ## Credits
 
